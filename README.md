@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Rails development and learning.
+# Rails development and learning by Rajiv Choudhary.
