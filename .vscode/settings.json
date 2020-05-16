@@ -1,0 +1,6 @@
+{
+        "workbench.startupEditor": "newUntitledFile",
+	        "editor.fontSize": 16,
+	        "editor.tabsize": 2,
+	        "emmet.inlcudeLanguages": {"*.erb": "html", "ruby":"html"}
+}
